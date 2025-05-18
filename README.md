@@ -90,7 +90,7 @@ The first RLHF framework for anime video generation.
 
 ## 📑 Todo List
 - AniSoraV2.0
-    - [ ] Support 14B version, is excepted before the end of May.
+    - [ ] Support 14B version, is expected before the end of May.
 - AniSora Dataset
     - [ ] **High quality training set open apply**
 - Anisora Benchmark
